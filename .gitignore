@@ -1,0 +1,6 @@
+# Don't include these files or folders in commits
+.ipynb_checkpoints/
+*.png
+*.pptx
+*.py
+*.swp
